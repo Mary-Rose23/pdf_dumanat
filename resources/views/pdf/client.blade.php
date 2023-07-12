@@ -65,7 +65,7 @@
 <body>
     <div class="container">
         <div class="address">
-            <img src="{{public_path('images/123.jpg')}}" class="logo" alt="Logo">
+            <img src="{{public_path('images/download.png')}}" class="logo" alt="Logo">
             <p>Potohan, Tubigon</p>
             <p>Tubigon, Bohol</p>
             <p>Tel. No.: 0927181711</p>
